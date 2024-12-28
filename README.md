@@ -1,5 +1,5 @@
-# flutter_application_1
-news app
+# News Application
+ 
 A new Flutter project.
 
 ## Getting Started
